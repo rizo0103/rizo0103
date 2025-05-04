@@ -9,9 +9,9 @@
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or anything tech-related
 - 🎯 Constantly learning **Assembly**, **AI integration**, and **Backend Scaling**
 - 📫 How to reach me:  
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/yourTelegramUsername)  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Muhammadrizo)  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/s_m_a_3)  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadrizo.shokirov2006@gmail.com)  
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rizo0103)  
 
 ---
 
