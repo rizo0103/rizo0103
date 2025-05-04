@@ -19,9 +19,10 @@
 ---
 
 <span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pzYTZxNnMzMmZ0dDRlcmI1M2t5ajI1YXU3M3dybWYyd2QxY3JjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="30px" height="30px" align="absmiddle" />
+  ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pzYTZxNnMzMmZ0dDRlcmI1M2t5ajI1YXU3M3dybWYyd2QxY3JjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="30px" height="30px" align="absmiddle" />
   <b>Tech Stack</b>
 </span>
+<br />
 
 <table align="center">
   <tr>
@@ -93,7 +94,7 @@
 
 ---
 
-### 📂 Featured Projects
+<!--### 📂 Featured Projects
 Here are a few cool things I've been working on:
 
 - 🗂️ [eJournal Admin Panel](https://github.com/yourRepoLink) – Smooth UI, futuristic design for student tracking  
@@ -101,7 +102,7 @@ Here are a few cool things I've been working on:
 - ♟️ [Custom AI Chess](https://github.com/yourRepoLink) – Unique rules and Gemini-powered AI  
 - 🧠 [Contest Tasks Page](https://github.com/yourRepoLink) – Full of dark-glass visuals and real-time countdown logic  
 
----
+--- -->
 
 ### ⚡ Fun Facts
 - 🎮 I play strategy games and RPGs in my free time  
