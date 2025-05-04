@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 - 🌟 Passionate about **Web Development** and **UI/UX Design**
-- 🔭 Currently working on `futuristic programming tasks platform`
+- 🔭 Currently working on futuristic programming tasks platform called `Code Sphere`
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or anything tech-related
 - 🎯 Constantly learning **Assembly**, **AI integration**, and **Backend Scaling**
 - 📫 How to reach me:  
