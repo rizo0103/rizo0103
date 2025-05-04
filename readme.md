@@ -74,16 +74,15 @@
 ---
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![Muhammadrizo's GitHub stats](https://github-readme-stats.vercel.app/api?username=shokirov06&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+![Muhammadrizo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizo0103&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shokirov06&langs_count=10&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizo0103&langs_count=10&layout=compact&theme=radical)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shokirov06&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizo0103&theme=radical&hide_border=true)
 
 ---
 
