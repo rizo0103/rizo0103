@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+Tech Stack <img src="https://giphy.com/stickers/putti-programming-html-computer-juua9i2c2fA0AIp2iq" style="height: 15px; width: 15px" />
 <table align="center">
   <tr>
     <td align="center">
