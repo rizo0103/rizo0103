@@ -18,9 +18,7 @@
 
 ---
 
-<div style="height: 15px; width: 15px">
-  ![Tech Stack](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pzYTZxNnMzMmZ0dDRlcmI1M2t5ajI1YXU3M3dybWYyd2QxY3JjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif) Tech Stack
-</div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3pzYTZxNnMzMmZ0dDRlcmI1M2t5ajI1YXU3M3dybWYyd2QxY3JjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width = "15px" height = "15px" /> Tech Stack
 <table align="center">
   <tr>
     <td align="center">
