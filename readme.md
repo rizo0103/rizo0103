@@ -82,12 +82,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizo0103&theme=radical&hide_border=true" style="max-width: 70%;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizo0103&langs_count=10&layout=compact&theme=radical" style="max-width: 48%;" />
   </div>
-
   <br/>
-
   <!-- GitHub Streak -->
     <img src="https://github-readme-stats.vercel.app/api?username=rizo0103&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
-
 </div>
 
 ---
