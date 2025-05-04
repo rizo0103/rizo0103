@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+World!;My+name+is+Muhammadrizo+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+World!;My+name+is+Muhammadrizo+%F0%9F%A4%9D" alt="Typing SVG" />
 </h1>
 <h3 align="center">🚀 Web Developer | ⚛️ React Enthusiast | 🎮 Gamer | 💻 Tech Explorer</h3>
 
