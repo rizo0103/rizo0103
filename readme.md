@@ -36,11 +36,11 @@
     <td align="center">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     </td>
@@ -53,19 +53,21 @@
     <td align="center">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+    </td>
+    <td colspan="4"></td>
   </tr>
 </table>
 
