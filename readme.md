@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">🚀 Web Developer | ⚛️ React Enthusiast | 🎮 Gamer | 💻 Tech Explorer</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <span style="margin-bottom: 15px">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY0dnozeTNkdW9qN25pa2d3OGRnbGwzazI2aml1cGIzMzV5cGRieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" align="absmiddle" width="50px" height="50px" /> 
