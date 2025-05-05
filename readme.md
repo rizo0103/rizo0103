@@ -15,7 +15,8 @@
 - 🔭 Currently working on futuristic programming tasks platform called `Code Sphere`
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or anything tech-related
 - 🎯 Constantly learning **AI integration**, and **Backend Scaling**
-- 📫 How to reach me:  
+- 📫 How to reach me:
+
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/s_m_a_3)  
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadrizo.shokirov2006@gmail.com)  
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shokirov06)  
