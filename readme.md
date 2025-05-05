@@ -5,7 +5,10 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
+<span style="margin-bottom: 15px">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY0dnozeTNkdW9qN25pa2d3OGRnbGwzazI2aml1cGIzMzV5cGRieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" align="absmiddle" width="50px" height="50px" /> <b> About Me </b>
+</span>
+<br><br>
 - 🌟 Passionate about **Web Development** and **UI/UX Design**
 - 🔭 Currently working on futuristic programming tasks platform called `Code Sphere`
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, or anything tech-related
