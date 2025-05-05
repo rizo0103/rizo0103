@@ -81,7 +81,8 @@
 
 ---
 
-### 📊 GitHub Stats
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdsb3NlaWx6eDc4aXR0YWNpMmJ6dWI1c2hrNDBxYWdoaTRrd3hxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkGLJIKYcgCYrxdpks/giphy.gif" width="30px" height="30px" 
+ align = "absmiddle"/> <b> Github Stats </b>
 
 <div align="center">
 
