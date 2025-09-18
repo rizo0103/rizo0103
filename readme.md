@@ -81,23 +81,6 @@
 
 ---
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdsb3NlaWx6eDc4aXR0YWNpMmJ6dWI1c2hrNDBxYWdoaTRrd3hxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PkGLJIKYcgCYrxdpks/giphy.gif" width="30px" height="30px" 
- align = "absmiddle"/> <b> Github Stats </b>
-
-<div align="center">
-
-  <!-- GitHub Stats Row -->
-  <!--<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizo0103&theme=radical&hide_border=true" style="max-width: 70%;" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rizo0103" style="max-width: 48%;" />
-  </div>
-  <br/>
-  <!-- GitHub Streak -->
-    <img src="https://github-readme-stats.vercel.app/api?username=rizo0103&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical" style="max-width: 48%;"/>
-</div>
-
----
-
 <!--### 📂 Featured Projects
 Here are a few cool things I've been working on:
 
