@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<span style="margin-bottom: 15px">
+<span style="margin-bottom: 1px">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmY0dnozeTNkdW9qN25pa2d3OGRnbGwzazI2aml1cGIzMzV5cGRieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6n6N2o22gKVeDQDGy8/giphy.gif" align="absmiddle" width="50px" height="50px" /> 
   <b> About Me </b>
 </span>
@@ -17,7 +17,7 @@
 - 🎯 Constantly learning **AI integration**, and **Backend Scaling** <br>
 - 📫 How to reach me:
 
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/s_m_a_3)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadrizo.shokirov2006@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shokirov06)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rizo0103)  
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?s6tyle=flat&logo=telegram&logoColor=white)](https://t.me/s_m_a_3)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadrizo.shokirov2006@gmail.com)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/shokirov06)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/rizo0103)  
 
 ---
 
