@@ -27,7 +27,7 @@
 </span>
 <br><br>
 
-<table align="center" margin-top="15">
+<table align="center" margin-top="16">
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height:45px;" />
